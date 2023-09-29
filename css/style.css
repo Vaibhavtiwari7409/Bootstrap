@@ -1,0 +1,142 @@
+.priyank-image{
+    box-shadow:0 10px 16px 0 rgba(0,0,0,0.2), 
+    0 6px 20px 0 rgba(0,0,0,0.19) !important;
+  
+  }.p2{
+    
+    font-size: 13px;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0rem;
+
+}
+.img-title {
+
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left: 0%;
+  right: 0;
+  top: 45%;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}
+
+.ourstory {
+  font-family: prague;
+  font-size: 70px;
+}
+
+.c {
+  line-height: 35px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  padding-right: 5px;
+  text-align: justify;
+  font-size: 18px;
+  box-sizing: border-box;
+}
+
+.mob-banner {
+  display: none;
+}
+
+img {
+  width: 80%;
+}
+
+.img-title {
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left: 0%;
+  right: 0;
+  top: 45%;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  
+}
+.box{
+position: relative;
+font-family: "Helvetica";
+
+}
+.row{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+}
+.meet-the-team2{
+    padding-top: 2px;
+    padding-left: 3px;
+}
+.btn{
+    color: #ffffff;
+    padding: 10px 20px;
+    font-weight: bolder;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: #fbac29;
+}
+.title{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.box16.post { 
+    transform: translateY(30px);
+    transition: all .4s cubic-bezier(.13,.62,.81,.91) 0s;
+}
+.box16{
+    text-align: center;
+    color: #fff;
+    position: relative;
+    margin-top: 20px;
+
+}
+.box-content{
+    padding: 20px;
+    margin-bottom: 20px;
+    bottom: 0;
+    z-index: 1;
+    width: 100%;
+    position: absolute;
+}
+.box16::after{
+    content: "";
+    height: 100%;
+    background: linear-gradient(to bottom,rgba(0,0,0,0) 0,rgba(0,0,0,.08) 69%,rgba(0,0,0,.76) 100%);
+    top: 0;
+    transition: all .5s ease 0s;
+}
+footer{
+    background: #020306f0;
+    padding: 50px;
+    color: #fff;
+    margin-top: 30px;
+  
+  }
+  footer h2{
+    font-family: 'prague';
+   font-size: 2 rem;
+   line-height: 50px;
+   letter-spacing: 3px;
+   color: #fff;
+  }
+  footer p{
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-align: justify;
+  
+  }
+  footer .foot-add
+  {
+    padding: 15px;
+  }
+  footer b{
+     color: #fcb21b;}
